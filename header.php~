@@ -11,7 +11,7 @@
 		<title>Dívida Técnica - Uma questão de Qualidade</title>
 		<meta name="description" content="dívida técnica" />
 		<meta name="keywords" content="html5 template, css3, one page, animations, agency, portfolio, web design" />
-		<meta name="author" content="Peter Finlan" />
+		<meta name="author" content="Diogo Pina" />
 		<!-- Bootstrap -->
 		<script src="js/modernizr.custom.js"></script>
 		<link href="css/bootstrap.min.css" rel="stylesheet">
@@ -19,7 +19,7 @@
 		<link href="css/flickity.css" rel="stylesheet" >
 		<link href="css/animate.css" rel="stylesheet">
 		<link href="http://maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
-		<link href='http://fonts.googleapis.com/css?family=Nunito:400,300,700' rel='stylesheet' type='text/css'>
+		<link href='https://fonts.googleapis.com/css?family=Nunito:400,300,700' rel='stylesheet' type='text/css'>
 		<link href="css/styles.css" rel="stylesheet">
 		<link href="css/queries.css" rel="stylesheet">
 		<!-- Facebook and Twitter integration -->
