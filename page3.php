@@ -5,7 +5,7 @@
 						<div class="features-bg">
 							<div class="texture-overlay"></div>
 							<div class="features-img wp1">
-								<img src="img/money.png" width="126" height="144" alt="HTML5 Logo">
+								<img src="img/money.png" width="151" height="172" alt="HTML5 Logo">
 							</div>
 						</div>
 					</div>
