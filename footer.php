@@ -7,12 +7,12 @@
 						<a href="http://www.ime.usp.br" target="_left"><img src="img/logo-ime.jpg" width="78" height="78" alt="Instituto de Matemática e Estatística"></a>
 						<a href="http://www.capes.gov.br/" target="_left"><img src="img/logo-capes.png" width="78" height="78" alt="Capes"></a>
 						</h1>
-						<p>Conteúdo desenvolvido por Diogo Pina - IME-USP <a href="http://www.ime.usp.br/~dpina">Diogo Pina</a></p>
+						<p>Conteúdo desenvolvido por Diogo Pina - IME-USP <a href="http://www.ime.usp.br/~diogojp">Diogo Pina</a></p>
 						<p>© Boxify 2015 - <a href="http://tympanus.net/codrops/licensing/" target="_left">Licence</a> - Layout Designed &amp; Developed by <a href="http://www.peterfinlan.com/" target="_left">Peter Finlan</a></p>
 					</div>
 					<div class="col-md-7">
 						<ul class="footer-nav">
-							<li><a href="#about">Sobre</a></li>
+							<li><a href="#about">Projeto</a></li>
 							<li><a href="#features">Vantagens</a></li>
 							<li><a href="#steps-intro">Etapas</a></li>
 							<li><a href="#contact">Participe</a></li>
@@ -24,7 +24,7 @@
 		<div class="overlay overlay-boxify">
 			<nav>
 				<ul>
-					<li><a href="#about"><i class="fa fa-heart"></i>Sobre</a></li>
+					<li><a href="#about"><i class="fa fa-heart"></i>Projeto</a></li>
 					<li><a href="#features"><i class="fa fa-flash"></i>Vantagens</a></li>
 				</ul>
 				<ul>

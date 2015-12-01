@@ -30,6 +30,7 @@
 <li>Disponibilizar pelo menos 1 hora por semana de cada programador, por um período mínimo de 4 semanas.</li>
 <li>Permitir o maior número de participantes nas palestras e atividades.</li>
 <li>Viabilizar os participantes a realizarem as entrevistas.</li>
+<li>Utilizar alguma das linguagens suportadas pelo Sonar Qube (Java, C/C++, C#, Python, PHP, JavaScript, HTML, CSS, VB.NET e outras).</li>
 <li>Acordar termos de confidencialidade e publicação.</li>
 </ul>
 <!--
@@ -42,7 +43,7 @@
 								</div>
 							</blockquote>
 -->
-							<a href="#contact" class="download-btn">Particiar! <i class="fa fa-arrow-down"></i></a>
+							<a href="#contact" class="download-btn">Participar! <i class="fa fa-arrow-down"></i></a>
 						</div>
 					</div>
 				</div>

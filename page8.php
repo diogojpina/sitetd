@@ -13,7 +13,8 @@
 		<section class="contact" id="contact">
 			<div class="container">
 				<div class="row">
-					<div class="col-md-12 text-center wp4">
+                    <div class="col-md-2"></div>
+					<div class="col-md-8 text-center wp4">
 						<h1>Participe do Projeto de Pesquisa</h1>
 <form method="post">
 <div class="form-group">
@@ -42,6 +43,7 @@
 </div>
 </form>						
 					</div>
+                    <div class="col-md-2"></div>
 				</div>
 			</div>
 		</section>

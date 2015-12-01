@@ -1072,6 +1072,14 @@ Contact
     font-weight: 400;
     font-size: 40px;
 }
+.form-group {
+	text-align: left;
+}
+
+.form-group label {
+	color: #FFF;	
+}
+
 
 /* ==========================================================================
 Footer
