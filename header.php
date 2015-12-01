@@ -10,7 +10,7 @@
 		<meta name="viewport" content="width=device-width, initial-scale=1">
 		<title>Dívida Técnica - Uma questão de Qualidade</title>
 		<meta name="description" content="dívida técnica" />
-		<meta name="keywords" content="html5 template, css3, one page, animations, agency, portfolio, web design" />
+		<meta name="keywords" content="d�vida t�cnica, technical debt" />
 		<meta name="author" content="Diogo Pina" />
 		<!-- Bootstrap -->
 		<script src="js/modernizr.custom.js"></script>
