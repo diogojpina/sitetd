@@ -1,3 +1,27 @@
+<?php 
+if ($_POST) {
+	$nome = $_POST['nome'];
+	$empresa = $_POST['empresa'];
+	$email = $_POST['email'];
+	$fone = $_POST['fone'];
+	$msg = $_POST['msg'];
+
+	$to = 'diogojpina@gmail.com';
+	$subject = 'Interesse Pesquisa';
+	$message = "Nome: $nome\n";
+	$message .= "Empresa: $empresa\n";
+	$message .= "E-mail: $email\n";
+	$message .= "Telefone: $fone\n";
+	$message .= "Mensagem: $msg\n\n";
+
+	$fp = fopen('contact.log', 'w');
+	fwrite($fp, $message);
+	fclose($fp);
+
+	mail($to, $subject, $message);
+
+}
+?>
 <!--
 		<section class="download" id="download">
 			<div class="container">
@@ -16,7 +40,7 @@
                     <div class="col-md-2"></div>
 					<div class="col-md-8 text-center wp4">
 						<h1>Participe do Projeto de Pesquisa</h1>
-<form method="post">
+<form method="post" action="#contact">
 <div class="form-group">
 <label for="nome">Nome:</label>
 <br />

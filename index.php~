@@ -1,8 +1,28 @@
+<?php 
+if ($_POST) {
+	$nome = $_POST['nome'];
+	$empresa = $_POST['empresa'];
+	$email = $_POST['email'];
+	$fone = $_POST['fone'];
+	$msg = $_POST['msg'];
+
+	$to = 'diogojpina@gmail.com';
+	$subject = 'Interesse Pesquisa';
+	$message = "Nome: $nome<br />";
+	$message .= "Empresa: $empresa<br />";
+	$message .= "E-mail: $email<br />";
+	$message .= "Telefone: $fone<br />";
+	$message .= "Mensagem: $msg<br />";
+
+	mail($to, $subject, $message, $headers);
+}
+?>
+
 <?php include('header.php');?>
 
 <?php include('page1.php');?>
 
-<?php //include('page2.php');?>
+<?php include('page2.php');?>
 
 <?php include('page3.php');?>
 
